@@ -35,7 +35,8 @@
 
 ## Demo
 
-![Application Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/c9f6cf0c-7f97-41db-b0ff-3714ac57acea">
+
 
 ## Installation
 
